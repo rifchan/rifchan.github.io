@@ -1,22 +1,33 @@
 body {
-    font-family: sans-serif;
-    line-height: 1.5;
-  
-    background-color: #f9f9f9;
-    color: #333333;
-  
-    width: 980px;
-    margin: 0 auto;
-  }
-  
-  h1 {
-    text-align: center;
-    font-size: 36px;
-    margin-bottom: 0;
-  }
-  
-  main > h2 {
-    text-align: center;
-    font-size: 25px;
-  }
-  
+  width: 700px;
+  margin: 0 auto;
+  padding: 100px 0;
+
+  font-family: serif;
+
+  background-color: #eee;
+}
+h {
+  text-align: center;
+  color: #646464;
+  font-weight: normal;
+}
+h1 {
+  font-weight: bolder;
+  font-size: 70px;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 20px;
+}
+h4 {
+  font-size: 18px;
+}
+p {
+  font-size: 16px;
+  color: #333;
+  text-align: justify;
+}
+/* END */
